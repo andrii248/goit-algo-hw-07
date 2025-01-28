@@ -41,4 +41,4 @@ root = insert(root, 8)
 
 # Знаходимо суму всіх значень
 tree_sum = sum_of_tree(root)
-print("Сума всіх значень у дереві:", tree_sum)
+print("Сума всіх значень у дереві: ", tree_sum)
